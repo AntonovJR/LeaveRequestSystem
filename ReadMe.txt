@@ -1,6 +1,9 @@
 Welcome to Alex Antonov`s leave console app,
 
-
+Requirements
+Java 16
+Maven
+MySQL
 
 
 You have three main roles - CEO, MANAGER and EMPLOYEE.
